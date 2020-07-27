@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kelas_no_absen_11_rpl_3"
+        android:textColor="#FF4600"
+        android:textSize="20sp"
+
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nama_manggala_kagendra_zuhdissssss"
+        android:textColor="#F32121"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asal_malang_cemorokandang"
+        android:textColor="#FFC107"
+        android:textSize="20sp"
+
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="54dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/keinginan_bisa_menjadi_alhi_program_dan_bekerja_di_perusahaan_ternama"
+        android:textColor="#4CAF50"
+        android:textSize="20sp"
+
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="81dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hari_ini_hanya_ini_yang_bisa_saya_tunjukkan_tunggu_sampai_pro_wkwk"
+        android:textColor="#2196F3"
+        android:textSize="20sp"
+
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="159dp" />
+
+
+</LinearLayout>
